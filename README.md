@@ -1,7 +1,9 @@
 EECS481
 =======
-Repo contains two screenshots and this readme.
+Link to images:
 
-Screenshot one is a basic Windows 8 application that shows my name.
+http://imgur.com/a/BoixJ
 
-Screenshot two is another basic Windows 8 application that 
+First image is of a basic Hello World application with my name, Sarah Nickolai.
+
+Second image is of a basic application that will take whatever is entered into the text box and display it below "Nice to meet you...".
